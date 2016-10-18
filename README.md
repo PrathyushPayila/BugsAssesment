@@ -1,2 +1,0 @@
-# BugsAssesment
-Fixing the Bugs
